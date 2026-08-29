@@ -1,3 +1,0 @@
-# Stage 1: Cognitive Foundation
-
-This stage builds mental models for AI collaboration. Lesson 1 explains LLMs as advanced autocomplete systems and introduces four core AI collaboration principles. Lesson 2 teaches structured prompting with five elements: role, objective, constraints, format, and examples. Lesson 3 covers prompt engineering fundamentals like context windows and few-shot learning. Lesson 4 applies these skills to a real project: converting Markdown to Word. Lesson 5 provides an AI industry overview, covering models like GPT, Claude, and Gemini, plus toolchains and career paths. These five lessons lay the groundwork for understanding AI capabilities and working with AI effectively.
